@@ -1,6 +1,6 @@
 # travis-ci and coveralls demo
 
-当项目托管在github时，可以利用travis-ci（https://travis-ci.org）来进行集成测试，并且通过coveralls（https://coveralls.io/）来显示项目的代码测试覆盖率。这样整个项目给人的感觉会比较可靠稳定。效果图如下所示：
+当项目托管在github时，可以利用[travis-ci](https://travis-ci.org)来进行集成测试，并且通过[coveralls](https://coveralls.io/)来显示项目的代码测试覆盖率。这样整个项目给人的感觉会比较可靠稳定。效果图如下所示：
 ![效果显示](./images/result.jpg) 
 第一个红框build passing 代表项目测试通过，第二个红框代表项目测试的覆盖率。
 
